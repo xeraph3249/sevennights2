@@ -1,5 +1,5 @@
-# 1. SENAYAHO (전설 방어구 소환권 1개)|
-# 2. GOGOSENA (루비 1,000개)|
+1. SENAYAHO (전설 방어구 소환권 1개)|
+2. GOGOSENA (루비 1,000개)|
 # 3. danjangnimluv (고급 지도 500개)|
 # 4. COMINGSOON (펫 소환 티켓 5장)|
 # 5. kingadel (펫 소환 티켓 10장)|
