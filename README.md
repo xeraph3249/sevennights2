@@ -37,3 +37,4 @@ aq ~a 1. SENAYAHO (전설 방어구 소환권 1개)|
 ~a 37. 2S2E2V2E2N (토파즈 500개)|
 ~a 38. COCOJOA (소탕권 50개)|
 ~a 39. CHECKCHECK (장비 소환 티켓 10장)|
+~a 40. 2STHGINNEVES (파괴의 파편 10개)|
